@@ -166,11 +166,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5a1a6622020b8b39",
+  "active": "8ce3f46344235255",
   "lastOpenFiles": [
-    "README.md",
+    "01-Warmed Up.md",
+    "01-2Warm.md",
     "plantilla.md",
     "01-Lets Warm Up.md",
+    "README.md",
     "picoCTF/01 - General Skills/Lets Warm Up.md",
     "picoCTF/01 - General Skills",
     "Bienvenido.md",
