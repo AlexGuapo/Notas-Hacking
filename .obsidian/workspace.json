@@ -49,9 +49,107 @@
               "icon": "lucide-file",
               "title": "01-Commitment Issues"
             }
+          },
+          {
+            "id": "1ed170bd5225be52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-GET aHEAD"
+            }
+          },
+          {
+            "id": "168b7be8ad3c4b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-special.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-special"
+            }
+          },
+          {
+            "id": "2258dd964c3f0eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Commitment Issues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Commitment Issues"
+            }
+          },
+          {
+            "id": "de57df7f60271ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Time Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Time Machine"
+            }
+          },
+          {
+            "id": "50dfb7781e835b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Blame Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Blame Game"
+            }
+          },
+          {
+            "id": "f52a812a9702c7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Collaborative Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Collaborative Development"
+            }
+          },
+          {
+            "id": "56599993dcd2900c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Binary Search"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       },
       {
         "id": "91c335aa8f776ed7",
@@ -217,12 +315,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a1a7823b136cb486",
+  "active": "56599993dcd2900c",
   "lastOpenFiles": [
     "plantilla.md",
+    "01-Binary Search.md",
+    "01-Collaborative Development.md",
+    "01-Blame Game.md",
+    "01-Time Machine.md",
     "01-Commitment Issues.md",
+    "01-permissions.md",
     "01-special.md",
     "01-chrono.md",
+    "01-Cookies.md",
+    "01-GET aHEAD.md",
     "01-Serpentine.md",
     "01-PW Crack 3.md",
     "01-PW Crack 2.md",
@@ -238,13 +343,6 @@
     "01-Magikarp Ground Mission.md",
     "01-Lets Warm Up.md",
     "01-First Find.md",
-    "01-Big zip.md",
-    "01-repetitions.md",
-    "01-Tab, Tab, Attack.md",
-    "01-useless.md",
-    "01-Static ain't always noise.md",
-    "01-Wave a flag.md",
-    "01-Based.md",
     "picoCTF/01 - General Skills",
     "picoCTF",
     "desktop.ini"
