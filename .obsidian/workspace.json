@@ -40,116 +40,14 @@
             "id": "a1a7823b136cb486",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Commitment Issues.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01-Commitment Issues"
-            }
-          },
-          {
-            "id": "1ed170bd5225be52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-GET aHEAD"
-            }
-          },
-          {
-            "id": "168b7be8ad3c4b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-special.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-special"
-            }
-          },
-          {
-            "id": "2258dd964c3f0eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Commitment Issues.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Commitment Issues"
-            }
-          },
-          {
-            "id": "de57df7f60271ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Time Machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Time Machine"
-            }
-          },
-          {
-            "id": "50dfb7781e835b79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Blame Game.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Blame Game"
-            }
-          },
-          {
-            "id": "f52a812a9702c7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Collaborative Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Collaborative Development"
-            }
-          },
-          {
-            "id": "56599993dcd2900c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Binary Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Binary Search"
+              "title": "Nueva pestaña"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "91c335aa8f776ed7",
@@ -315,34 +213,40 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "56599993dcd2900c",
+  "active": "a1a7823b136cb486",
   "lastOpenFiles": [
-    "plantilla.md",
-    "01-Binary Search.md",
-    "01-Collaborative Development.md",
-    "01-Blame Game.md",
-    "01-Time Machine.md",
-    "01-Commitment Issues.md",
-    "01-permissions.md",
-    "01-special.md",
-    "01-chrono.md",
-    "01-Cookies.md",
     "01-GET aHEAD.md",
-    "01-Serpentine.md",
-    "01-PW Crack 3.md",
-    "01-PW Crack 2.md",
-    "01-PW Crack 1.md",
-    "01-fixme2.py.md",
-    "01-fixme1.py.md",
-    "01-convertme.py.md",
-    "01-runme.py.md",
-    "01-Codebook.md",
-    "01-Super SSH.md",
-    "01-Nice netcat....md",
-    "01-plumbing.md",
-    "01-Magikarp Ground Mission.md",
-    "01-Lets Warm Up.md",
-    "01-First Find.md",
+    "picoCTF Web 2/01-GET aHEAD.md",
+    "picoCTF Web 2/01-Cookies.md",
+    "picoCTF Web 2",
+    "Nueva carpeta",
+    "General Skills 1/01-Lets Warm Up.md",
+    "01-Time Machine.md",
+    "01-Collaborative Development.md",
+    "01-Binary Search.md",
+    "Tarea 1/01-Time Machine.md",
+    "Tarea 1/01-special.md",
+    "Tarea 1/01-permissions.md",
+    "Tarea 1/01-Commitment Issues.md",
+    "Tarea 1/01-Collaborative Development.md",
+    "Tarea 1/01-chrono.md",
+    "Tarea 1/01-Blame Game.md",
+    "Tarea 1/01-Binary Search.md",
+    "Tarea 1",
+    "General Skills 3/01-Super SSH.md",
+    "General Skills 3/01-Serpentine.md",
+    "General Skills 3/01-runme.py.md",
+    "General Skills 3/01-PW Crack 3.md",
+    "General Skills 3/01-PW Crack 2.md",
+    "General Skills 3/01-PW Crack 1.md",
+    "General Skills 3/01-fixme2.py.md",
+    "General Skills 3/01-fixme1.py.md",
+    "General Skills 3/01-convertme.py.md",
+    "General Skills 3/01-Codebook.md",
+    "General Skills 3",
+    "General Skills 2/01-Big zip.md",
+    "General Skills 2",
+    "General Skills 1",
     "picoCTF/01 - General Skills",
     "picoCTF",
     "desktop.ini"
