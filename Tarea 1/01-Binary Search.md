@@ -5,6 +5,30 @@ Descripción
 	
 Solución
 	
+	┌──(kali㉿DESKTOP-B014NUV)-[~]
+	└─$ ssh -p 49186 ctf-player@atlas.picoctf.net
+	ctf-player@atlas.picoctf.net's password:
+	Permission denied, please try again.
+	ctf-player@atlas.picoctf.net's password:
+	Welcome to the Binary Search Game!
+	I'm thinking of a number between 1 and 1000.
+	Enter your guess: 500
+	Lower! Try again.
+	Enter your guess: 250
+	Higher! Try again.
+	Enter your guess: 350
+	Higher! Try again.
+	Enter your guess: 450
+	Lower! Try again.
+	Enter your guess: 400
+	Lower! Try again.
+	Enter your guess: 380
+	Higher! Try again.
+	Enter your guess: 390
+	Higher! Try again.
+	Enter your guess: 395
+	Congratulations! You guessed the correct number: 395
+	Here's your flag: picoCTF{g00d_gu355_3af33d18}
 	
 Notas adicionales
 	
