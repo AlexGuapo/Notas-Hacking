@@ -3,11 +3,11 @@ Descripción
 	
 Solución
 	
-	picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}
+	picoCTF{wA8_th4t$_ill3aGal..oa2d2239b}
 	
 Notas adicionales
 	
 	
 Referencias
-	https://www.prepostseo.com/tool/es/decimal-to-hex
-	https://www.chileoffshore.com/es/toolkits/basic-conversion/hexa-to-ascii
+	https://www.youtube.com/watch?v=ndRGHjdN-oA
+	
